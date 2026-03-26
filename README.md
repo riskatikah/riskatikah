@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Riska%20&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20•%20Data%20Science%20•%20Automation&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Riska%20&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20•%20Data%20•%20AI%20Solutions•%20Automation&descAlignY=55&descAlign=50" />
 
 <br/>
 
@@ -21,13 +21,9 @@ class Riska:
     location   = "Cikarang, Indonesia 🇮🇩"
     university = "President University"
 
-    currently_learning = [
-        "System Analysis",
-        "AI Engineering"
-    ]
-
     interests = [
         "Data & AI Solutions",
+        "Automation",
         "Business Process Optimization"
     ]
 
