@@ -23,14 +23,12 @@ class Riska:
 
     currently_learning = [
         "System Analysis",
-        "Machine Learning",
         "AI Engineering"
     ]
 
     interests = [
-        "Data Storytelling",
-        "Business Process Optimization",
-        "AI Solutions"
+        "Data & AI Solutions",
+        "Business Process Optimization"
     ]
 
     achievements = [
@@ -60,4 +58,4 @@ class Riska:
 ---
 
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d4a,50:0d2137,100:0a0e1a&height=120&section=footer" /> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d4a,50:0d2137,100:0a0e1a&height=120&section=footer" /> </div> 
